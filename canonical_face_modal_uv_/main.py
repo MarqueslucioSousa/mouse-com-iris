@@ -77,3 +77,5 @@ while True:
     cv2.waitKey(1)
     if cv2.waitKey(20) & 0xFF==ord('q'):
         break
+
+    #teste de novo push
